@@ -1,0 +1,8 @@
+*.iobj
+*.ipdb
+*.suo
+*.obj
+*.pdb
+*.sdf
+*.log
+*.tlog
